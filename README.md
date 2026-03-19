@@ -51,11 +51,11 @@ Open `myanmar_earthquake_map.html` directly in any modern browser — no server,
 
 ```
 .
-├── README.md                        # This documentation
-├── earthquakes_myanmar.geojson      # USGS earthquake data (GeoJSON)
-├── myanmar_faults.geojson           # GEM active faults for Myanmar (GeoJSON)
-├── gem_active_faults.geojson        # Full GEM global faults dataset (source file)
-└── myanmar_earthquake_map.html      # Interactive Leaflet web map
+├── README.md                                     # This documentation
+├── earthquakes_myanmar.geojson                   # USGS earthquake data (GeoJSON)
+├── myanmar_faults.geojson                        # GEM active faults for Myanmar (GeoJSON)
+├── gem_active_faults.geojson                     # Full GEM global faults dataset (source file)
+└── myanmar_earthquake_map.html (index.html)      # Interactive Leaflet web map
 ```
 
 ---
